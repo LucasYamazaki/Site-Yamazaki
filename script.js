@@ -6,7 +6,7 @@ function cadastro(email, senha, senha1){
       email.value = email;
     }
   }else{
-    alert("email invalido");
+    alert("email invalido, seu email precisa ter o formato:  XXXX@XXXX.XXX");
     email.value = "123";
   }
 }
@@ -16,6 +16,6 @@ function validate(senha, senha1){
     alert("Senhas incompativeis");
     return false;
   }else{
-    alert("senhas compativeis");
+    alert("Ainda não configurei o banco de dados, mas sua conta seria criada se eu tivesse");
   }
 }
