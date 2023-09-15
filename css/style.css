@@ -201,6 +201,12 @@ h2 {
     text-align: center;
 }
 
+h3 {
+  padding: 0 0 20px 0;
+  color: white;
+  text-align: center;
+}
+
 .loginBox p {
     margin: 0;
     padding: 0;
@@ -258,3 +264,27 @@ h2 {
 #criarConta{
     margin-left: 35%;
 }
+
+.Projeto1 {
+
+  position: absolute;
+  
+  top: 50%;
+  
+  left: 35%;
+  
+  transform: translate(-50%, -50%);
+  
+  }
+
+  .Projeto2 {
+
+    position: absolute;
+    
+    top: 50%;
+    
+    left: 65%;
+    
+    transform: translate(-50%, -50%);
+    
+    }
