@@ -288,3 +288,17 @@ h3 {
     transform: translate(-50%, -50%);
     
     }
+
+    .projeto_lua{
+      position: absolute;
+    
+      top: 19%;
+      
+      left: 50%;
+      
+      transform: translate(-50%, -50%);
+
+      color:#d98bdd;
+      font-size:320%
+
+    }
